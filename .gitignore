@@ -33,3 +33,7 @@ tfenv/
 
 # Ignore tfsec cache files
 .tfsec/
+
+*.lock.hcl
+*.pem
+
